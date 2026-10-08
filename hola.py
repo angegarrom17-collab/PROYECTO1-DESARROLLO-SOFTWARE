@@ -2,6 +2,7 @@ import os
 
 if (1>2):
 {
-     print ("hola")
+     print ("hola soy nmayor")
+     
 };
    
